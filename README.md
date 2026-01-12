@@ -64,7 +64,17 @@
 
 ## 📊 GitHub Analytics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DexterityCarreon911)](https://github.com/DexterityCarreon911/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=DexterityCarreon911&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DexterityCarreon911&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexterityCarreon911&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=DexterityCarreon911&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 ---
 
 ## 📌 Principles

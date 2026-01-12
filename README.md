@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Dexter C. Carreon</h1>
 
-<!--
-**DexterityCarreon911/DexterityCarreon911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Developer • Problem Solver • Technology Enthusiast
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Driven by curiosity for programming, system design, and building efficient, well-structured software.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- 💻 Passionate about software development, systems, and programming logic  
+- 🎓 Bachelor of Science in Information Technology (BSIT) student  
+- 🧩 Focused on writing clean, readable, and scalable code  
+- 🚀 Always learning, refining skills, and building meaningful projects  
+- 🔍 Interested in both low-level understanding and high-level application design  
+
+---
+
+## 🧑‍💻 Tech Stack
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,csharp,js,ts,go,rust,php,kotlin,swift,dart,scala,ruby,perl,bash,lua,r" />
+</p>
+
+### Web & Application Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,svelte,nodejs,express,nestjs,tailwind,bootstrap,vite" />
+</p>
+
+### Databases & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,redis,supabase,firebase" />
+</p>
+
+### DevOps, Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,nginx,apache,postman,vercel,netlify,aws,gcp" />
+</p>
+
+### Systems, Networking & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,debian,raspberrypi,arduino,regex" />
+</p>
+
+---
+
+## 🔍 Current Focus
+
+- Advanced programming logic and problem-solving  
+- Software architecture and clean code practices  
+- Backend systems and data handling  
+- Building full-stack and system-level projects  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📌 Principles
+
+> “Strong fundamentals create powerful software.”  
+> I believe in discipline, consistency, and mastering the core before chasing trends.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/DexterityCarreon911
+
+---
+
+⭐ **Building skills. Writing code. Improving every day.**

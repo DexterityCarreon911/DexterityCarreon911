@@ -64,14 +64,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" />
-</p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DexterityCarreon911)](https://github.com/DexterityCarreon911/github-readme-stats)
 ---
 
 ## 📌 Principles

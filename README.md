@@ -212,28 +212,14 @@
 
 <div align="center">
 
-  <!-- STATS CARDS ROW -->
+  <!-- STATS CARDS ROW - only activity metrics, no language exposure -->
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DexterityCarreon911&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E2E8F0&icon_color=7C3AED&custom_title=⚡+GitHub+Stats" width="420" />
+        <img src="https://github-readme-stats.vercel.app/api?username=DexterityCarreon911&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E2E8F0&icon_color=7C3AED&custom_title=⚡+GitHub+Velocity" width="420" />
       </td>
       <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=DexterityCarreon911&hide_border=true&background=0D1117&stroke=7C3AED&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=E2E8F0&sideNums=E2E8F0&dates=94A3B8" width="420" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- LANGUAGE CARDS -->
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexterityCarreon911&layout=donut&langs_count=10&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E2E8F0&custom_title=🦀+Language+Mastery" width="400" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DexterityCarreon911&theme=2077" width="400" />
       </td>
     </tr>
   </table>
@@ -245,10 +231,80 @@
 
   <br/>
 
-  <!-- SUMMARY CARDS ROW -->
+  <!-- CUSTOM SKILL MASTERY MATRIX -->
   <table>
     <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DexterityCarreon911&theme=2077" /></td>
+      <th colspan="7" align="center">
+        <img src="https://img.shields.io/badge/⚔️%20SYSTEMS%20MASTERY%20MATRIX-0D1117?style=for-the-badge&labelColor=7C3AED" />
+      </th>
+    </tr>
+    <tr>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/C%2B%2B-Expert-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
+        <sub>■■■■■</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/C-Expert-A8B9CC?style=flat-square&logo=c&logoColor=white" /><br/>
+        <sub>■■■■■</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/Rust-Advanced-000000?style=flat-square&logo=rust&logoColor=white" /><br/>
+        <sub>■■■■□</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
+        <sub>■■■■□</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
+        <sub>■■■■□</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/Go-Intermediate-00ADD8?style=flat-square&logo=go&logoColor=white" /><br/>
+        <sub>■■■□□</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/Assembly-Literate-525252?style=flat-square&logo=asm&logoColor=white" /><br/>
+        <sub>■■■□□</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+        <sub>■■■■□</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
+        <sub>■■■□□</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
+        <sub>■■■■□</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
+        <sub>■■■■□</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
+        <sub>■■■■■</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+        <sub>■■■■■</sub>
+      </td>
+      <td align="center" width="110"><br/>
+        <img src="https://img.shields.io/badge/AWS-Intermediate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /><br/>
+        <sub>■■■□□</sub>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- SUMMARY CARDS - neutral ones only -->
+  <table>
+    <tr>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DexterityCarreon911&theme=2077" /></td>
       <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DexterityCarreon911&theme=2077" /></td>
     </tr>
@@ -321,7 +377,7 @@
   <a href="https://github.com/DexterityCarreon911">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:dexter.carreon@example.com">
+  <a href="mailto:dextercarreon0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=DexterityCarreon911&label=Visitors&color=7C3AED&style=for-the-badge" />

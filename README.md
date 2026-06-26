@@ -332,69 +332,6 @@
 
   <br/>
 
-  <!-- FULL STACK BREAKDOWN -->
-  <table>
-    <tr>
-      <th colspan="6" align="center">
-        <img src="https://img.shields.io/badge/🌐%20FULL%20STACK%20FOOTPRINT-0D1117?style=for-the-badge&labelColor=7C3AED" />
-      </th>
-    </tr>
-    <tr>
-      <th colspan="6" align="center"><sub>⚙️ Languages & Runtimes</sub></th>
-    </tr>
-    <tr>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /><br/><img src="https://progress-bar.dev/65/?width=80&color=00ADD8" /><br/><sub>65%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/><img src="https://progress-bar.dev/85/?width=80&color=3178C6" /><br/><sub>85%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/><img src="https://progress-bar.dev/85/?width=80&color=F7DF1E" /><br/><sub>85%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br/><img src="https://progress-bar.dev/60/?width=80&color=777BB4" /><br/><sub>60%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/><img src="https://progress-bar.dev/90/?width=80&color=E34F26" /><br/><sub>90%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br/><img src="https://progress-bar.dev/85/?width=80&color=1572B6" /><br/><sub>85%</sub><br/></td>
-    </tr>
-    <tr>
-      <th colspan="6" align="center"><sub>🛠️ Frameworks & Libraries</sub></th>
-    </tr>
-    <tr>
-      <td align="center"><br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/><img src="https://progress-bar.dev/80/?width=80&color=61DAFB" /><br/><sub>80%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/><img src="https://progress-bar.dev/65/?width=80&color=000000" /><br/><sub>65%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/><img src="https://progress-bar.dev/85/?width=80&color=339933" /><br/><sub>85%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /><br/><img src="https://progress-bar.dev/80/?width=80&color=000000" /><br/><sub>80%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br/><img src="https://progress-bar.dev/70/?width=80&color=06B6D4" /><br/><sub>70%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /><br/><img src="https://progress-bar.dev/40/?width=80&color=E0234E" /><br/><sub>40%</sub><br/></td>
-    </tr>
-    <tr>
-      <th colspan="6" align="center"><sub>🗄️ Databases & Storage</sub></th>
-    </tr>
-    <tr>
-      <td align="center"><br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/><img src="https://progress-bar.dev/85/?width=80&color=4479A1" /><br/><sub>85%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/><img src="https://progress-bar.dev/80/?width=80&color=4169E1" /><br/><sub>80%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/><img src="https://progress-bar.dev/70/?width=80&color=47A248" /><br/><sub>70%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /><br/><img src="https://progress-bar.dev/65/?width=80&color=DC382D" /><br/><sub>65%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" /><br/><img src="https://progress-bar.dev/65/?width=80&color=003B57" /><br/><sub>65%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br/><img src="https://progress-bar.dev/65/?width=80&color=FFCA28" /><br/><sub>65%</sub><br/></td>
-    </tr>
-    <tr>
-      <th colspan="6" align="center"><sub>☁️ DevOps & Infrastructure</sub></th>
-    </tr>
-    <tr>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/><img src="https://progress-bar.dev/80/?width=80&color=2496ED" /><br/><sub>80%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/><img src="https://progress-bar.dev/95/?width=80&color=F05032" /><br/><sub>95%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/><img src="https://progress-bar.dev/90/?width=80&color=FCC624" /><br/><sub>90%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /><br/><img src="https://progress-bar.dev/60/?width=80&color=326CE5" /><br/><sub>60%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /><br/><img src="https://progress-bar.dev/65/?width=80&color=009639" /><br/><sub>65%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /><br/><img src="https://progress-bar.dev/65/?width=80&color=FF9900" /><br/><sub>65%</sub><br/></td>
-    </tr>
-    <tr>
-      <th colspan="6" align="center"><sub>🐚 Additional</sub></th>
-    </tr>
-    <tr>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /><br/><img src="https://progress-bar.dev/80/?width=80&color=4EAA25" /><br/><sub>80%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /><br/><img src="https://progress-bar.dev/65/?width=80&color=3ECF8E" /><br/><sub>65%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Go%20Templating-00ADD8?style=flat-square&logo=go&logoColor=white" /><br/><img src="https://progress-bar.dev/60/?width=80&color=00ADD8" /><br/><sub>60%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" /><br/><img src="https://progress-bar.dev/60/?width=80&color=512BD4" /><br/><sub>60%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white" /><br/><img src="https://progress-bar.dev/40/?width=80&color=F7A41D" /><br/><sub>40%</sub><br/></td>
-      <td align="center"><br/><img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logo=asm&logoColor=white" /><br/><img src="https://progress-bar.dev/50/?width=80&color=6E4C13" /><br/><sub>50%</sub><br/></td>
-    </tr>
-  </table>
 
   <!-- SUMMARY CARDS - neutral ones only -->
   <table>

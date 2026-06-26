@@ -260,18 +260,56 @@
 
 ---
 
-## 🧠 Core Beliefs
+## 🧠 The Codex
 
-```yaml
-philosophy: "Strong fundamentals create powerful software."
-approach: Clean code. Smart architecture. Continuous growth.
-focus_areas:
-  systems:    ["Memory management", "Performance optimization", "Low-level design"]
-  backend:    ["API architecture", "Database design", "Scalability"]
-  frontend:   ["Component architecture", "UX patterns", "Performance"]
-  practices:  ["Clean code", "SOLID principles", "Testing", "Documentation"]
-motto: "Discipline, consistency, and mastering the core before chasing trends."
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200" bgcolor="0D1117">
+        <br/>
+        <img src="https://img.shields.io/badge/Fundamentals%20Above%20All-00D4FF?style=for-the-badge&logo=target&logoColor=black" /><br/><br/>
+        <sub><i>"Master the core before<br/>chasing the trend."</i></sub>
+        <br/><br/>
+      </td>
+      <td align="center" width="200" bgcolor="0D1117">
+        <br/>
+        <img src="https://img.shields.io/badge/Clean%20Code%2C%20Clear%20Mind-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white" /><br/><br/>
+        <sub><i>"Readability is a feature.<br/>Clarity is king."</i></sub>
+        <br/><br/>
+      </td>
+      <td align="center" width="200" bgcolor="0D1117">
+        <br/>
+        <img src="https://img.shields.io/badge/Discipline%20>%20Motivation-10B981?style=for-the-badge&logo=target&logoColor=white" /><br/><br/>
+        <sub><i>"Consistency beats<br/>inspiration every time."</i></sub>
+        <br/><br/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200" bgcolor="0D1117">
+        <br/>
+        <img src="https://img.shields.io/badge/Performance%20Mindset-EF4444?style=for-the-badge&logo=rocket&logoColor=white" /><br/><br/>
+        <sub><i>"Elegance without speed<br/>is just decoration."</i></sub>
+        <br/><br/>
+      </td>
+      <td align="center" width="200" bgcolor="0D1117">
+        <br/>
+        <img src="https://img.shields.io/badge/Algorithms%20Over%20Hacks-F59E0B?style=for-the-badge&logo=codeforces&logoColor=black" /><br/><br/>
+        <sub><i>"Solve it right, not<br/>just solve it fast."</i></sub>
+        <br/><br/>
+      </td>
+      <td align="center" width="200" bgcolor="0D1117">
+        <br/>
+        <img src="https://img.shields.io/badge/Always%20Building-06B6D4?style=for-the-badge&logo=progress&logoColor=white" /><br/><br/>
+        <sub><i>"1% better every day.<br/>Compounding wins."</i></sub>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💡%20Strong%20fundamentals%20create%20powerful%20software.-0D1117?style=for-the-badge&labelColor=7C3AED" />
+</p>
 
 <br/>
 

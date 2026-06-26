@@ -233,47 +233,98 @@
 
   <br/>
 
-  <!-- CUSTOM LANGUAGE BREAKDOWN CARD - shows the 5 languages they want -->
+  <!-- CUSTOM LANGUAGE BREAKDOWN CARD - ALL languages, exactly 100% -->
   <table>
     <tr>
-      <th colspan="5" align="center">
-        <img src="https://img.shields.io/badge/🦀%20LOW-LEVEL%20LANGUAGE%20DOMINANCE-0D1117?style=for-the-badge&labelColor=00D4FF" />
+      <th colspan="6" align="center">
+        <img src="https://img.shields.io/badge/🦀%20PROGRAMMING%20LANGUAGE%20DISTRIBUTION-0D1117?style=for-the-badge&labelColor=00D4FF" />
       </th>
     </tr>
     <tr>
-      <td align="center" width="180">
+      <td align="center" width="150">
         <br/>
-        <img src="https://img.shields.io/badge/C%2B%2B-35%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
-        <img src="https://progress-bar.dev/35/?width=140&color=00599C" /><br/>
+        <img src="https://img.shields.io/badge/C%2B%2B-20%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/20/?width=110&color=00599C" /><br/>
         <sub>Systems & Performance</sub>
         <br/>
       </td>
-      <td align="center" width="180">
+      <td align="center" width="150">
         <br/>
-        <img src="https://img.shields.io/badge/C-25%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /><br/>
-        <img src="https://progress-bar.dev/25/?width=140&color=A8B9CC" /><br/>
+        <img src="https://img.shields.io/badge/C-17%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/17/?width=110&color=A8B9CC" /><br/>
         <sub>Embedded & Kernel</sub>
         <br/>
       </td>
-      <td align="center" width="180">
+      <td align="center" width="150">
         <br/>
-        <img src="https://img.shields.io/badge/Rust-20%25-000000?style=for-the-badge&logo=rust&logoColor=white" /><br/>
-        <img src="https://progress-bar.dev/20/?width=140&color=000000" /><br/>
+        <img src="https://img.shields.io/badge/Rust-14%25-000000?style=for-the-badge&logo=rust&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/14/?width=110&color=000000" /><br/>
         <sub>Modern Systems</sub>
         <br/>
       </td>
-      <td align="center" width="180">
+      <td align="center" width="150">
         <br/>
-        <img src="https://img.shields.io/badge/Java-12%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
-        <img src="https://progress-bar.dev/12/?width=140&color=ED8B00" /><br/>
+        <img src="https://img.shields.io/badge/Java-11%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/11/?width=110&color=ED8B00" /><br/>
         <sub>Enterprise</sub>
         <br/>
       </td>
-      <td align="center" width="180">
+      <td align="center" width="150">
         <br/>
-        <img src="https://img.shields.io/badge/Python-8%25-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-        <img src="https://progress-bar.dev/8/?width=140&color=3776AB" /><br/>
-        <sub>Scripting & Tooling</sub>
+        <img src="https://img.shields.io/badge/Python-9%25-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/9/?width=110&color=3776AB" /><br/>
+        <sub>Scripting & AI</sub>
+        <br/>
+      </td>
+      <td align="center" width="150">
+        <br/>
+        <img src="https://img.shields.io/badge/Go-6%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/6/?width=110&color=00ADD8" /><br/>
+        <sub>Cloud & Tooling</sub>
+        <br/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="150">
+        <br/>
+        <img src="https://img.shields.io/badge/TypeScript-7%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/7/?width=110&color=3178C6" /><br/>
+        <sub>Web Architecture</sub>
+        <br/>
+      </td>
+      <td align="center" width="150">
+        <br/>
+        <img src="https://img.shields.io/badge/JavaScript-5%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+        <img src="https://progress-bar.dev/5/?width=110&color=F7DF1E" /><br/>
+        <sub>Web & Frontend</sub>
+        <br/>
+      </td>
+      <td align="center" width="150">
+        <br/>
+        <img src="https://img.shields.io/badge/PHP-4%25-777BB4?style=for-the-badge&logo=php&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/4/?width=110&color=777BB4" /><br/>
+        <sub>Backend</sub>
+        <br/>
+      </td>
+      <td align="center" width="150">
+        <br/>
+        <img src="https://img.shields.io/badge/C%23-3%25-512BD4?style=for-the-badge&logo=csharp&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/3/?width=110&color=512BD4" /><br/>
+        <sub>.NET Ecosystem</sub>
+        <br/>
+      </td>
+      <td align="center" width="150">
+        <br/>
+        <img src="https://img.shields.io/badge/Assembly-2%25-6E4C13?style=for-the-badge&logo=asm&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/2/?width=110&color=6E4C13" /><br/>
+        <sub>Reverse Engineering</sub>
+        <br/>
+      </td>
+      <td align="center" width="150">
+        <br/>
+        <img src="https://img.shields.io/badge/Bash-2%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/2/?width=110&color=4EAA25" /><br/>
+        <sub>Automation</sub>
         <br/>
       </td>
     </tr>

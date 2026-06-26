@@ -231,71 +231,48 @@
 
   <br/>
 
-  <!-- CUSTOM SKILL MASTERY MATRIX -->
+  <!-- CUSTOM LANGUAGE BREAKDOWN CARD - shows the 5 languages they want -->
   <table>
     <tr>
-      <th colspan="7" align="center">
-        <img src="https://img.shields.io/badge/⚔️%20SYSTEMS%20MASTERY%20MATRIX-0D1117?style=for-the-badge&labelColor=7C3AED" />
+      <th colspan="5" align="center">
+        <img src="https://img.shields.io/badge/🦀%20LOW-LEVEL%20LANGUAGE%20DOMINANCE-0D1117?style=for-the-badge&labelColor=00D4FF" />
       </th>
     </tr>
     <tr>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/C%2B%2B-Expert-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
-        <sub>■■■■■</sub>
+      <td align="center" width="180">
+        <br/>
+        <img src="https://img.shields.io/badge/C%2B%2B-35%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/35/?width=140&color=00599C" /><br/>
+        <sub>Systems & Performance</sub>
+        <br/>
       </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/C-Expert-A8B9CC?style=flat-square&logo=c&logoColor=white" /><br/>
-        <sub>■■■■■</sub>
+      <td align="center" width="180">
+        <br/>
+        <img src="https://img.shields.io/badge/C-25%25-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/25/?width=140&color=A8B9CC" /><br/>
+        <sub>Embedded & Kernel</sub>
+        <br/>
       </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/Rust-Advanced-000000?style=flat-square&logo=rust&logoColor=white" /><br/>
-        <sub>■■■■□</sub>
+      <td align="center" width="180">
+        <br/>
+        <img src="https://img.shields.io/badge/Rust-20%25-000000?style=for-the-badge&logo=rust&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/20/?width=140&color=000000" /><br/>
+        <sub>Modern Systems</sub>
+        <br/>
       </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/Java-Advanced-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /><br/>
-        <sub>■■■■□</sub>
+      <td align="center" width="180">
+        <br/>
+        <img src="https://img.shields.io/badge/Java-12%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/12/?width=140&color=ED8B00" /><br/>
+        <sub>Enterprise</sub>
+        <br/>
       </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white" /><br/>
-        <sub>■■■■□</sub>
-      </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/Go-Intermediate-00ADD8?style=flat-square&logo=go&logoColor=white" /><br/>
-        <sub>■■■□□</sub>
-      </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/Assembly-Literate-525252?style=flat-square&logo=asm&logoColor=white" /><br/>
-        <sub>■■■□□</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-        <sub>■■■■□</sub>
-      </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/PHP-Intermediate-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
-        <sub>■■■□□</sub>
-      </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
-        <sub>■■■■□</sub>
-      </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white" /><br/>
-        <sub>■■■■□</sub>
-      </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square&logo=linux&logoColor=black" /><br/>
-        <sub>■■■■■</sub>
-      </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-        <sub>■■■■■</sub>
-      </td>
-      <td align="center" width="110"><br/>
-        <img src="https://img.shields.io/badge/AWS-Intermediate-FF9900?style=flat-square&logo=amazonaws&logoColor=white" /><br/>
-        <sub>■■■□□</sub>
+      <td align="center" width="180">
+        <br/>
+        <img src="https://img.shields.io/badge/Python-8%25-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+        <img src="https://progress-bar.dev/8/?width=140&color=3776AB" /><br/>
+        <sub>Scripting & Tooling</sub>
+        <br/>
       </td>
     </tr>
   </table>
